@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav{
+    width: 100%;
+    background-color: black;
+}
+
+.logo{
+    width: 100px;
+    height: 50px;
+    float: left; 
+    margin: 5px;
+}
+
+.search{
+float: left; 
+margin: 15px 1px 10px ;
+width: 17%;
+height: 35px;
+border-radius: 10px;
+}
+
+ul li {
+    color: aliceblue;
+    list-style: none;
+    float: left;
+    padding: 15px;
+}
+.nav-links{
+    margin-left: 78%;
+}
+
+.clear {
+    clear: both;
+}
+
+
+.card-one {
+width: 250px;
+height: 300px;
+background-repeat: no-repeat;
+background-size: cover;
+border: 2px solid black;
+background-image: url(../Images/Altja_jõgi_Lahemaal.jpg);
+border-radius: 10%;
+float: left;
+margin: 15px;
+}
+.card-two {
+    width: 250px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid black;
+    background-image: url(../Images/134-1347618_background-natural-hd-png.jpg);
+    border-radius: 10%;
+    float: left;
+    margin: 15px;
+    }
+.card-three {
+        width: 250px;
+        height: 300px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        border: 2px solid black;
+        background-image: url(../Images/nature-1024x682.jpeg);
+        border-radius: 10%;
+        float: left;
+        margin: 15px;
+        }   
+.card-four {
+            width: 250px;
+            height: 300px;
+            background-repeat: no-repeat;
+            background-size: cover;
+            border: 2px solid black;
+            background-image: url(../Images/tree-736885__480.jpg);
+            border-radius: 10%;
+            float: left;
+            margin: 15px;
+            } 
+ .card-five {
+                width: 250px;
+                height: 300px;
+                background-repeat: no-repeat;
+                background-size: cover;
+                border: 2px solid black;
+                background-image: url(../Images/10.jpg);
+                border-radius: 10%;
+                float: left;
+                margin: 15px;
+                }
+.card-img img{
+    width: 30%; 
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 20px 10px;
+    }
+
+    .footer {
+        width: 100%;
+        height: 50px;
+        background-color: rgb(50, 50, 50);
+    }
+
+    .logo-footer{
+        width: 50px;
+        height: 50px;
+        float: left; 
+        border-radius: 50%;
+        margin-left: 5px;
+    }
+    .search-footer{
+        float: left; 
+        margin: 5px ;
+        width: 70%;
+        height: 35px;
+        border-radius: 10px;
+    }
